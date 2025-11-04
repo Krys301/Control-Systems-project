@@ -1,7 +1,16 @@
 # ⚙️ Ball and Beam Balancing System (PID Control)
 
-This project demonstrates a **Ball and Beam Control System** that uses a **PID controller** to balance a ball at a desired position along a beam.  
-The setup uses an **ultrasonic sensor** to measure the ball’s distance, and a **stepper motor** (controlled by an Arduino MegaPi board) to adjust the beam angle in real time.
+<p align="center">
+  <a href="https://github.com/Krys301/Control-Systems-project/blob/main/EE191-Group2%20Technical%20Report%20(Final)%20(2).pdf">
+    <img src="https://img.shields.io/badge/📄_View_Technical_Report-blue?style=for-the-badge" alt="Technical Report"/>
+  </a>
+  <a href="https://github.com/Krys301/Control-Systems-project/blob/main/EE191%20Balance%20Beam%20Project%20Presentation%202025-10-22.pdf">
+    <img src="https://img.shields.io/badge/🖥️_View_Presentation-green?style=for-the-badge" alt="Presentation Slides"/>
+  </a>
+</p>
+
+This project demonstrates a **Ball and Beam Control System** using a **PID controller** to balance a ball at a desired position along a beam.  
+The system uses an **ultrasonic sensor** to detect position and a **stepper motor** to adjust the beam angle in real time.
 
 ---
 
